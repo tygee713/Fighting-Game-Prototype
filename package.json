@@ -1,0 +1,31 @@
+{
+  "name": "footsies",
+  "version": "1.0.0",
+  "description": "First attempt at a fighting game in Phaser!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "phaser",
+    "phaser3",
+    "boilerplate"
+  ],
+  "author": "tygee713",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.3.0",
+    "webpack": "^4.20.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-polyfill": "^6.26.0",
+    "browser-sync": "^2.23.6",
+    "browser-sync-webpack-plugin": "^2.2.2",
+    "html-webpack-plugin": "^3.1.0",
+    "raw-loader": "^0.5.1",
+    "webpack-cli": "^3.1.1"
+  }
+}
